@@ -1,0 +1,20 @@
+1,Palomitas,$ 23.00,palomitas.jpg
+2,Refresco,$ 18.00,refresco.jpeg
+3,Nachos,$ 35.00,nachos.jpeg
+4,Hot Dog,$ 30.00,hot dog.jpg
+5,Pizza,$ 50.00,pizza.jpg
+6,Helado,$ 25.00,helado.jpg
+7,Chocolate,$ 20.00,chocolate.jpeg
+8,Galletas,$ 15.00,galletas.jpeg
+9,Papas Fritas,$ 28.00,papas fritas.jpeg
+10,Dulces,$ 10.00,dulces.jpeg
+11,Agua,$ 12.00,agua.jpeg
+12,Café,$ 22.00,cafe.jpeg
+13,Té Helado,$ 20.00,te.png
+14,Brownie,$ 26.00,brownie.jpeg
+15,Panini,$ 40.00,panini.jpeg
+16,Ensalada,$ 32.00,ensalada.jpeg
+17,Smoothie,$ 27.00,smoothie.jpeg
+18,Yogur,$ 18.00,yogur.jpeg
+19,Empanada,$ 24.00,empanada.jpeg
+20,Sandwich,$ 38.00,sandwich.jpeg
